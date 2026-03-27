@@ -103,7 +103,7 @@ dotnet run
 Após rodar, acesse:
 
 ```
-https://localhost:7011/TaskItems
+https://localhost:7011
 ```
 
 ---
