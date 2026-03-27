@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+
+# Banco de dados local
+tasks.db
+tasks.db-shm
+tasks.db-wal
